@@ -16,15 +16,3 @@ Router.put('/category/:categoryId/service/:serviceId',serviceController.updateSe
 
 module.exports = Router;
 
-//service {
-//     "name":"new service",
-//     "type":"Normal",
-//     "priceOptions":[{
-//         "duration": "1 hour",
-//         "price" : 500,
-//         "type": "Hourly"
-
-//     }]
-// }
-
-//service id 65a11e8f6a14e53183d181b7

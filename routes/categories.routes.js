@@ -14,8 +14,3 @@ Router.delete('/category/:categoryId',categoryController.deleteCategory)
 
 module.exports = Router;
 
-//category no: sample --  65a10e2b933c745b125859fd
-
-//category {
-//     "name":"new category"
-// }
